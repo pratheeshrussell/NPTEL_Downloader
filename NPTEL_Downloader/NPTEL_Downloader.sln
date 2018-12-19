@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NPTEL_Downloader", "NPTEL_Downloader\NPTEL_Downloader.vbproj", "{BC49585B-8A29-4DB7-9257-D28D601E73A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC49585B-8A29-4DB7-9257-D28D601E73A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC49585B-8A29-4DB7-9257-D28D601E73A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC49585B-8A29-4DB7-9257-D28D601E73A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC49585B-8A29-4DB7-9257-D28D601E73A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C640906E-61A2-4B5C-B40D-1C58AD3D7E76}
+	EndGlobalSection
+EndGlobal

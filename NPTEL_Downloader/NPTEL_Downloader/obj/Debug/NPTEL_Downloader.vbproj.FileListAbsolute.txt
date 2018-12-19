@@ -1,0 +1,15 @@
+G:\NPTEL_Downloader\NPTEL_Downloader\NPTEL_Downloader\bin\Debug\NPTEL_Downloader.exe
+G:\NPTEL_Downloader\NPTEL_Downloader\NPTEL_Downloader\bin\Debug\NPTEL_Downloader.pdb
+G:\NPTEL_Downloader\NPTEL_Downloader\NPTEL_Downloader\bin\Debug\NPTEL_Downloader.xml
+G:\NPTEL_Downloader\NPTEL_Downloader\NPTEL_Downloader\bin\Debug\HtmlAgilityPack.dll
+G:\NPTEL_Downloader\NPTEL_Downloader\NPTEL_Downloader\bin\Debug\HtmlAgilityPack.pdb
+G:\NPTEL_Downloader\NPTEL_Downloader\NPTEL_Downloader\bin\Debug\HtmlAgilityPack.xml
+G:\NPTEL_Downloader\NPTEL_Downloader\NPTEL_Downloader\obj\Debug\NPTEL_Downloader.Form1.resources
+G:\NPTEL_Downloader\NPTEL_Downloader\NPTEL_Downloader\obj\Debug\NPTEL_Downloader.Form2.resources
+G:\NPTEL_Downloader\NPTEL_Downloader\NPTEL_Downloader\obj\Debug\NPTEL_Downloader.Resources.resources
+G:\NPTEL_Downloader\NPTEL_Downloader\NPTEL_Downloader\obj\Debug\NPTEL_Downloader.vbproj.GenerateResource.cache
+G:\NPTEL_Downloader\NPTEL_Downloader\NPTEL_Downloader\obj\Debug\NPTEL_Downloader.vbproj.CoreCompileInputs.cache
+G:\NPTEL_Downloader\NPTEL_Downloader\NPTEL_Downloader\obj\Debug\NPTEL_Downloader.vbproj.CopyComplete
+G:\NPTEL_Downloader\NPTEL_Downloader\NPTEL_Downloader\obj\Debug\NPTEL_Downloader.exe
+G:\NPTEL_Downloader\NPTEL_Downloader\NPTEL_Downloader\obj\Debug\NPTEL_Downloader.xml
+G:\NPTEL_Downloader\NPTEL_Downloader\NPTEL_Downloader\obj\Debug\NPTEL_Downloader.pdb
